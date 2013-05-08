@@ -1,0 +1,6 @@
+/POE-Component-IRC-Plugin-Trivia-BaneOrLincoln-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
