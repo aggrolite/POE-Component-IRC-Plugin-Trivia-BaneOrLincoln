@@ -1,3 +1,7 @@
+# NOTE NOTE
+
+I still need to revisit this one.
+
 # NAME
 
 POE::Component::IRC::Plugin::Trivia::BaneOrLincoln - Blah blah blah
